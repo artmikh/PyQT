@@ -1,1 +1,1 @@
-# PyQT
+# lesson_1
