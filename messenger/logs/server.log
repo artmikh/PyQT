@@ -1,0 +1,15 @@
+2021-03-26 20:35:10,878 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:10:00,159 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:10:21,726 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:10:27,076 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:11:06,524 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50230)
+2021-03-26 21:11:07,036 DEBUG server.py Обработка сообщения от клиента : {'action': 'presence', 'time': 1616775066.525909, 'user': {'account_name': 'tast'}}
+2021-03-26 21:11:07,093 DEBUG decorators.py Функция: handle_message. Параметры: (<__main__.Server object at 0x000002C359CD1940>, {'action': 'presence', 'time': 1616775066.525909, 'user': {'account_name': 'tast'}}, {'DEFAULT_IP_ADDRESS': '127.0.0.1', 'DEFAULT_PORT': 7778, 'MAX_CONNECTIONS': 5, 'MAX_PACKAGE_LENGTH': 1024, 'ENCODING': 'utf-8', 'ACTION': 'action', 'TIME': 'time', 'USER': 'user', 'ACCOUNT_NAME': 'account_name', 'PRESENCE': 'presence', 'RESPONSE': 'response', 'ERROR': 'error', 'SENDER': 'account_name', 'DESTINATION': 'account_name', 'MESSAGE': 'message', 'MESSAGE_TEXT': 'message_text', 'LOGGING_LEVEL': 10}), {}. Модуль: __main__. Вызов из функции main(). Вызов из функции write_responses
+2021-03-26 21:41:08,107 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:41:27,441 INFO server.py Сервер запущен на порту: 2000, по адресу: .
+2021-03-26 21:43:56,015 INFO server.py Сервер запущен на порту: 2000, по адресу: .
+2021-03-26 21:46:50,648 INFO server.py Сервер запущен на порту: 2000, по адресу: .
+2021-03-26 21:47:39,324 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:49:39,842 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:53:02,520 INFO server.py Сервер запущен на порту: 7778, по адресу: .
+2021-03-26 21:56:21,846 INFO server.py Сервер запущен на порту: 7778, по адресу: .
